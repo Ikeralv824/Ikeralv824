@@ -1,4 +1,4 @@
-# Hola 👋 Soy Iker
+# Hola, soy Iker 👋
 
 🎓 Estudiante de 1º de DAW (Desarrollo de Aplicaciones Web)  
 💻 Aprendiendo desarrollo web y programación  
