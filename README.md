@@ -35,8 +35,8 @@
 ## 📫 Contacto
 
 - GitHub: https://github.com/ikeralv824
-- Linkedln :www.linkedin.com/in/ikerantonioaroalvarez824
-<!--
+- Linkedln : https://www.linkedin.com/in/ikerantonioaroalvarez824/
+<!--](https://www.linkedin.com/in/ikerantonioaroalvarez824/)
 **Ikeralv824/Ikeralv824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
